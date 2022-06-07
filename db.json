@@ -1,4 +1,4 @@
-{
+[{
 	awb: '00000013',
 	shipper: 'MEC Particular´,
 	orides: 'PBH - BKK',
@@ -46,4 +46,4 @@
 	orides: 'PBH - BKK',
         type: '',
 	actions: 'btn1  btn2  btn3'
-}
+}]
