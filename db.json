@@ -1,49 +1,49 @@
 [{
-	'awb': '00000013',
-	'shipper': 'MEC Particular',
-	'orides': 'PBH - BKK',
-        'type': 'x',
-	'actions': 'btn1  btn2  btn3'
+	awb: '00000013',
+	shipper: 'MEC Particular',
+	orides: 'PBH - BKK',
+        type: 'x',
+	actions: 'btn1  btn2  btn3'
 },
 {
-	'awb': '00000037',
-	'shipper': 'ugyen export pvt ltd',
-	'orides': 'PBH - BKK',
-        'type': 'x',
-	'actions': 'btn1  btn2  btn3'
+	awb: '00000037',
+	shipper: 'ugyen export pvt ltd',
+	orides: 'PBH - BKK',
+        type: 'x',
+	actions: 'btn1  btn2  btn3'
 },
 {
-	'awb': '00000038',
-	'shipper': 'ugyen export pvt ltd',
-	'orides': 'PBH - BKK',
-        'type': 'x',
-	'actions': 'btn1  btn2  btn3'
+	awb: '00000038',
+	shipper: 'ugyen export pvt ltd',
+	orides: 'PBH - BKK',
+        type: 'x',
+	actions: 'btn1  btn2  btn3'
 },
 {
-	'awb': '00000061',
-	'shipper': 'MEC Particular',
-	'orides': 'PBH - BKK',
-        'type': 'x',
-	'actions': 'btn1  btn2  btn3'
+	awb: '00000061',
+	shipper: 'MEC Particular',
+	orides: 'PBH - BKK',
+        type: 'x',
+	actions: 'btn1  btn2  btn3'
 },
 {
-	'awb': '00000121',
-	'shipper': 'Demo Clau',
-	'orides': 'PBH - BKK',
-        'type': 'x',
-	'actions': 'btn1  btn2  btn3'
+	awb: '00000121',
+	shipper: 'Demo Clau',
+	orides: 'PBH - BKK',
+        type: 'x',
+	actions: 'btn1  btn2  btn3'
 },
 {
-	'awb': '00000071',
-	'shipper': 'MEC Corporate',
-	'orides': 'PBH - DEL',
-        'type': 'x',
-	'actions': 'btn1  btn2  btn3'
+	awb: '00000071',
+	shipper: 'MEC Corporate',
+	orides: 'PBH - DEL',
+        type: 'x',
+	actions: 'btn1  btn2  btn3'
 },
 {
-	'awb': '00000072',
-	'shipper': 'KIU TEST AGENTE',
-	'orides': 'PBH - BKK',
-        'type': 'x',
-	'actions': 'btn1  btn2  btn3'
+	awb: '00000072',
+	shipper: 'KIU TEST AGENTE',
+	orides: 'PBH - BKK',
+        type: 'x',
+	actions: 'btn1  btn2  btn3'
 }]
